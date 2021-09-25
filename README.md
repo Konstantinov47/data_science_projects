@@ -8,6 +8,7 @@
 | 5 | Temperature and humidity correlation research on covid19 | Searching for a possible correlation of temperature and humidity with COVID-19 in Germany and Iran. |
 | 6 | Predicting Credit Card Approvals | Build a machine learning model to predict if a credit card application will get approved. |
 | 8 | Text mining | Use web scraping and NLP to find the most frequent words in one of the classic literature: The Adventures of Sherlock Holmes by Arthur Conan Doyle. |
+| 10 | AI | Porgramming basic AI using python and showing the mechanics behind the scene. |
 
 
 ## SQL Projects
